@@ -1,0 +1,56 @@
+.topBack{
+  padding: 50px;
+  width: 100%;
+	background: #351CA4;
+}
+.trapezium{
+  width: 100%;
+  border-top: 140px solid #351CA4;
+  border-left: 270px solid transparent;
+  border-right: 190px solid transparent;
+  background: white;
+}
+.homeHeader{
+  font-family: Raleway;
+  font-weight: 500;
+  font-size: 35px;
+  color: #FFFFFF;
+}
+.greenText{
+  font-family: Raleway;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 60px;
+  /* identical to box height, or 333% */
+  text-transform: capitalize;
+  color: #6CCAA9;
+}
+.formbox {
+  background-color: white;
+  margin: 15px !important;
+  box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+}
+
+.leftImage {
+  padding: 40px;
+  border-radius: 4px 0px 0px 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #F9F9F9;
+}
+.selectors  {
+  width: 100%;
+}
+.greenBtn {
+  font-family: Raleway;
+  background-color: #6CCAA9 !important;
+  border: 0px;
+}
+
+@media only screen and (max-width: 575px){
+  .leftImage {
+    border-radius: 4px 4px 0px 0px;
+  }
+}

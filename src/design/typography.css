@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;700;800&display=swap");
+
+.big-title-800 {
+  font-family: Raleway;
+  font-weight: 800;
+  font-size: 60px;
+}
+
+.title-800 {
+  font-family: Raleway;
+  font-weight: 800;
+  font-size: 40px;
+}
+.title-large-800 {
+  font-family: Raleway;
+  font-weight: 800;
+  font-size: 60px;
+}
+.title-400 {
+  font-family: Raleway;
+  line-height: 1.6;
+  font-size: 18px;
+}
+
+.title-700 {
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 25px;
+}
+.title-small-spacing-700 {
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 0.25em;
+}
+
+.title-500 {
+  font-family: Raleway;
+  font-weight: 500;
+  font-size: 26px;
+}
+
+.big-subtitle-500 {
+  font-family: Raleway;
+  font-weight: 500;
+  font-size: 22px;
+}
+
+.subtitle-500 {
+  font-family: Raleway;
+  font-weight: 500;
+  font-size: 14px;
+}
+.font-400 {
+  font-weight: 400;
+}
+.font-500 {
+  font-weight: 500;
+}
+.font-600 {
+  font-weight: 600;
+}
